@@ -1,4 +1,5 @@
-[{"op":"add","path":"/personalities/-","value":["idle.4","swim.5",[0,0],[2,-2]]}, //zombie//
+[
+{"op":"add","path":"/personalities/-","value":["idle.4","swim.5",[0,0],[2,-2]]}, //zombie//
 {"op":"add","path":"/personalities/-","value":["idle.3","fall.1",[-2,0],[-2,-2]]}, //yuk//
 {"op":"add","path":"/personalities/-","value":["idle.1","swimIdle.2",[-1,0],[-1,-1]]},  //stressed//
 {"op":"add","path":"/personalities/-","value":["idle.1","walk.3",[-1,0],[0,1]]},  //dontouchme//
