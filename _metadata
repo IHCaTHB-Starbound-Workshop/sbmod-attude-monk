@@ -3,12 +3,13 @@
   "description" : "[h1]Space faring teenagers with ATTITUDE.[/h1]
 adds new personality
 
-[url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]",
+[url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]
+Find the server version on [url=https://github.com/IsaacHart/sbmod-attude/releases]git.[/url]",
   "friendlyName" : "Attitude",
   "includes" : [],
   "link" : "community.playstarbound.com/threads/124193/",
   "name" : "ATTUDE.IHC",
   "requires" : [],
-  "steamContentId" : "759329955"
-  "version" : "1.0",
+  "steamContentId" : "",
+  "version" : "0.1"
 }
