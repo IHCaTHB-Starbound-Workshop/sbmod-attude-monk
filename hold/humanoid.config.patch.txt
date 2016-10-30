@@ -1,0 +1,31 @@
+[{"op":"add","path":"/personalities/-","value":[ "duck.1", "idle.1", [0, -8], [0, -8] ]}, //standard
+{"op":"add","path":"/personalities/-","value":[ "walk.1", "idle.2", [-1, -1], [0, -1] ]}, //confident
+{"op":"add","path":"/personalities/-","value":[ "walk.2", "idle.3", [-1, -2], [1, -2] ]}, //gunslinger
+{"op":"add","path":"/personalities/-","value":[ "walk.3", "idle.4", [-1, -1], [0, -1] ]}, //heroic
+{"op":"add","path":"/personalities/-","value":[ "walk.4", "idle.5", [0, 0], [0, 0] ]}, //scared
+{"op":"add","path":"/personalities/-","value":[ "walk.5", "idle.5", [-1, -1], [0, -1] ]}, //wonderful
+{"op":"add","path":"/personalities/-","value":[ "walk.6", "idle.3", [-1, -2], [1, -2] ]}, //prepared
+{"op":"add","path":"/personalities/-","value":[ "walk.7", "idle.2", [0, -1], [0, -1] ]}, //fabulous
+{"op":"add","path":"/personalities/-","value":[ "walk.8", "idle.1", [0, 0], [0, 0] ]}, //stoic
+{"op":"add","path":"/personalities/-","value":[ "run.1", "idle.3", [1, 0], [2, 0] ]},
+{"op":"add","path":"/personalities/-","value":[ "run.2", "idle.1", [0, 1], [0, 1] ]}, //standard
+{"op":"add","path":"/personalities/-","value":[ "run.3", "idle.2", [1, 0], [1, 0] ]}, //confident
+{"op":"add","path":"/personalities/-","value":[ "run.4", "idle.3", [0, -1], [2, -1] ]}, //gunslinger
+{"op":"add","path":"/personalities/-","value":[ "run.5", "idle.4", [1, 0], [1, 0] ]}, //heroic
+{"op":"add","path":"/personalities/-","value":[ "run.6", "idle.5", [1, 1], [0, 1] ]}, //scared
+{"op":"add","path":"/personalities/-","value":[ "run.7", "idle.5", [1, 0], [0, 0] ]}, //wonderful
+{"op":"add","path":"/personalities/-","value":[ "run.8", "idle.3", [0, -1], [2, -1] ]}, //prepared
+{"op":"add","path":"/personalities/-","value":[ "jump.1", "idle.2", [0, 1], [0, 1] ]}, //fabulous
+{"op":"add","path":"/personalities/-","value":[ "jump.2", "idle.1", [0, 1], [0, 1] ]}, //stoic
+{"op":"add","path":"/personalities/-","value":[ "jump.3", "idle.3", [0, 1], [1, 1] ]},
+{"op":"add","path":"/personalities/-","value":[ "jump.4", "idle.1", [0, 1], [0, 1] ]}, //standard
+{"op":"add","path":"/personalities/-","value":[ "fall.1", "idle.2", [0, 1], [0, 1] ]}, //confident
+{"op":"add","path":"/personalities/-","value":[ "fall.2", "idle.3", [0, 1], [1, 1] ]}, //gunslinger
+{"op":"add","path":"/personalities/-","value":[ "fall.3", "idle.4", [0, 1], [0, 1] ]}, //heroic
+{"op":"add","path":"/personalities/-","value":[ "fall.4", "idle.5", [0, 1], [0, 1] ]}, //scared
+{"op":"add","path":"/personalities/-","value":[ "sit.1", "idle.5", [-1, -1], [0, -1] ]}, //wonderful
+{"op":"add","path":"/personalities/-","value":[ "swim.1", "idle.3", [0, 0], [1, 0] ]}, //prepared
+{"op":"add","path":"/personalities/-","value":[ "swim.2", "idle.2", [0, -1], [0, -1] ]}, //fabulous
+{"op":"add","path":"/personalities/-","value":[ "swim.3", "idle.1", [0, -2], [0, -2] ]}, //stoic
+{"op":"add","path":"/personalities/-","value":[ "swim.4", "idle.3", [0, -1], [1, -1] ]},
+{"op":"add","path":"/personalities/-","value":[ "swimIdle.1", "idle.3", [0, 0], [2, 0] ]}] //nervous

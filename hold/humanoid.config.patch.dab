@@ -1,0 +1,9 @@
+{"op":"add","path":"/personalities/-","value":["idle.4","attude.1",[0,0],[-1,0]]},  //superman//
+{"op":"add","path":"/personalities/-","value":["idle.3","run.1",[-1,0],[-1,0]]}, //fonzie//
+{"op":"add","path":"/personalities/-","value":["idle.2","run.2",[0,0],[-2,0]]},  //excited//
+{"op":"add","path":"/personalities/-","value":["idle.4","attude.2",[0,0],[0,-1]]}, //yay//
+{"op":"add","path":"/personalities/-","value":["idle.3","attude.3",[-1,0],[-1,-1]]}, //yay!!!//
+{"op":"add","path":"/personalities/-","value":["idle.4","attude.4",[0,0],[0,-1]]}, //yay//
+{"op":"add","path":"/personalities/-","value":["idle.3","attude.5",[-1,0],[-1,-1]]}, //yay!!!//
+{"op":"add","path":"/personalities/-","value":["idle.4","attude.6",[0,0],[0,-1]]}, //yay//
+{"op":"add","path":"/personalities/-","value":["idle.3","attude.7",[-1,0],[-1,-1]]} //yay!!!//
