@@ -1,0 +1,23 @@
+[{"op":"add","path":"/personalities/-","value":["idle.1","swim.2",[0,0],[-1,-1]]}, //monk
+{"op":"add","path":"/personalities/-","value":["idle.3","swim.5",[0,0],[2,-2]]}, //zombie
+{"op":"add","path":"/personalities/-","value":["idle.5","duck.1",[0,0],[-1,6]]},  //airplane
+{"op":"add","path":"/personalities/-","value":["idle.5","walk.1",[0,0],[0,1]]},  
+{"op":"add","path":"/personalities/-","value":["idle.5","walk.2",[0,0],[0,1]]},
+{"op":"add","path":"/personalities/-","value":["idle.5","walk.3",[0,0],[0,1]]},  //dontouchme
+{"op":"add","path":"/personalities/-","value":["idle.5","walk.4",[0,0],[0,1]]},
+{"op":"add","path":"/personalities/-","value":["idle.5","walk.5",[0,0],[0,0]]}, //pensive
+{"op":"add","path":"/personalities/-","value":["idle.3","rotation",[0,0],[0,0]]}, //fonzie
+{"op":"add","path":"/personalities/-","value":["idle.5","jump.1",[0,0],[0,-1]]},
+{"op":"add","path":"/personalities/-","value":["idle.5","jump.2",[0,0],[0,-1]]},
+{"op":"add","path":"/personalities/-","value":["idle.5","jump.3",[0,0],[0,-1]]},
+{"op":"add","path":"/personalities/-","value":["idle.5","jump.4",[0,0],[0,-1]]},
+{"op":"add","path":"/personalities/-","value":["idle.5","fall.1",[0,0],[0,-1]]},
+{"op":"add","path":"/personalities/-","value":["idle.5","fall.2",[0,0],[0,-1]]},
+{"op":"add","path":"/personalities/-","value":["idle.5","fall.3",[0,0],[0,-1]]},
+{"op":"add","path":"/personalities/-","value":["idle.5","fall.4",[0,0],[0,-1]]},
+{"op":"add","path":"/personalities/-","value":["idle.5","swimIdle.1",[0,0],[0,0]]},
+{"op":"add","path":"/personalities/-","value":["idle.5","swimIdle.2",[0,0],[0,0]]},
+{"op":"add","path":"/personalities/-","value":["idle.5","swim.1",[0,0],[0,-1]]},
+{"op":"add","path":"/personalities/-","value":["idle.5","swim.3",[0,0],[-1,0]]},
+{"op":"add","path":"/personalities/-","value":["idle.5","swim.4",[0,0],[-1,0]]}
+]

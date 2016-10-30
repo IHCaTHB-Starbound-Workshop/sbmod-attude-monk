@@ -1,0 +1,22 @@
+[{"op":"add","path":"/personalities/-","value":["idle.4","swim.5",[0,0],[2,-2]]}, //zombie//
+{"op":"add","path":"/personalities/-","value":["idle.3","fall.1",[-2,0],[-2,-2]]}, //yuk//
+{"op":"add","path":"/personalities/-","value":["idle.1","swimIdle.2",[-1,0],[-1,-1]]},  //stressed//
+{"op":"add","path":"/personalities/-","value":["idle.1","walk.3",[-1,0],[0,1]]},  //dontouchme//
+{"op":"add","path":"/personalities/-","value":["idle.3","walk.5",[-2,0],[-1,2]]}, //pensive//
+{"op":"add","path":"/personalities/-","value":["idle.3","swim.1",[-1,0],[-2,-2]]}, //motorcycle//
+{"op":"add","path":"/personalities/-","value":["idle.2","jump.1",[0,0],[0,-1]]}, //protect//
+{"op":"add","path":"/personalities/-","value":["idle.3","jump.3",[-1,0],[-1,-1]]}, //cactaur alt//
+{"op":"add","path":"/personalities/-","value":["idle.3","jump.4",[-1,0],[-1,-1]]}, //cactaur//
+{"op":"add","path":"/personalities/-","value":["idle.2","swim.2",[0,0],[1,-1]]}, //monk//
+{"op":"add","path":"/personalities/-","value":["idle.4","fall.2",[0,0],[0,-1]]},  //hugs//
+{"op":"add","path":"/personalities/-","value":["idle.3","duck.1",[0,0],[-2,7]]},  //airplane//
+{"op":"add","path":"/personalities/-","value":["idle.4","swim.3",[0,0],[-1,0]]},  //superman//
+{"op":"add","path":"/personalities/-","value":["idle.3","rotation",[-1,0],[-1,0]]}, //fonzie//
+{"op":"add","path":"/personalities/-","value":["idle.2","swimIdle.1",[0,0],[-2,0]]},  //excited//
+{"op":"add","path":"/personalities/-","value":["idle.4","fall.3",[0,0],[0,-1]]}, //yay//
+{"op":"add","path":"/personalities/-","value":["idle.3","fall.4",[-1,0],[-1,-1]]} //yay!!!//
+]
+
+
+
+
