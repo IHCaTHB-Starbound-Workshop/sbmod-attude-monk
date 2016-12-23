@@ -1,19 +1,18 @@
 {
   "author" : "isaac as THE HONEY BADGER",
-  "description" : "^#5aa9d6;Space faring teenagers with ATTITUDE.^reset;
+  "description" : "^#5aa9d6;Space faring teenagers (monks) with ATTITUDE.^reset;
 
-Adds new personalities, some goofy some srs.
+Adds new personality, monk, as requested by Mr.Andre
 
 Works with any modded race.
 
 Characters generated with this mod stay like that forever, even after uninstall. This requires starcheat or the like to fix.
 
 For more, click the MEGATHREAD link from the steam page.",
-  "friendlyName" : "Personality +",
+  "friendlyName" : "Personality + Monk Edition",
   "includes" : [],
-  "link" : "steam://url/CommunityFilePage/787324529",
-  "name" : "ATTUDE.IHC",
+  "link" : "community.playstarbound.com/threads/124193/",
+  "name" : "ATTUDEMONK.IHC",
   "requires" : [],
-  "steamContentId" : "787324529",
-  "version" : "0.1a"
+  "version" : "0.1"
 }

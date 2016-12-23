@@ -1,4 +1,4 @@
-# sbmod-attude
+# sbmod-attude-monk
 
 Code licensed under GPLv3, file included
 
